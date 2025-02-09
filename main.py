@@ -1,8 +1,4 @@
-import math
 import random
-import string
-from itertools import count
-from operator import index
 
 # FizzBuzz uzduotis
 
